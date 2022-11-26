@@ -1,0 +1,10 @@
+# Create the environment using:  > conda env create -f environment.yml
+name: waves
+
+channels:
+  - default
+  - conda-forge
+
+dependencies:
+  - python=3.9
+
