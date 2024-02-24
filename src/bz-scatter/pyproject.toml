@@ -7,8 +7,10 @@ readme = "README.md"
 packages = [{include = "bz_scatter"}]
 
 [tool.poetry.dependencies]
-python = "^3.7"
+python = "^3.10"
 kymatio = "^0.3.0"
+torch = "^2.2.1"
+torchvision = "^0.17.1"
 
 
 [tool.poetry.group.dev.dependencies]

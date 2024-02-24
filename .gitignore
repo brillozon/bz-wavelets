@@ -2,3 +2,6 @@
 .spyproject
 
 .DS_Store
+
+dist
+venv
